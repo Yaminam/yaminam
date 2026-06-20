@@ -1,3 +1,5 @@
+
+  <!-- ============ HERO ============ -->
   <div align="center">
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,
@@ -114,22 +116,16 @@
 
   <img src="https://streak-stats.demolab.com/?user=yaminam&theme=tokyonight&hide_border=true"/>
 
-  <br/>
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yaminam&theme=tokyo-night&hide_bo
-  rder=true&area=true&custom_title=Contribution%20Graph"/>
-
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=yaminam&theme=tokyonight&no-frame=true&no-bg=true&column=
-  7&margin-w=8"/>
-
   </div>
 
-  <!-- ============ SNAKE ============ -->
+  <!-- ============ CONTRIBUTIONS (cleaner, no workflow) ============ -->
+  ## 🌊 Contribution Graph
+
   <div align="center">
-    <img src="https://raw.githubusercontent.com/yaminam/yaminam/output/github-contribution-grid-snake-dark.svg"
-  alt="snake"/>
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yaminam&theme=tokyo-night&bg_colo
+  r=1a1b27&color=26d0ce&line=26d0ce&point=ffffff&hide_border=true&area=true&area_color=26d0ce"/>
+
   </div>
 
   ---
