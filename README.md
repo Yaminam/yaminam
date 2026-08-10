@@ -1,7 +1,8 @@
 <!-- ============ HERO ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=12,20,24&text=Hi,%20I'm%20Shreyash%20💀&fontColor=ffffff&fontSize=42&fontAlignY=30&desc=Converting%20caffeine,%20deadlines,%20and%20quiet%20existential%20dread%20into%20shipped%20code&descAlignY=52&descSize=14&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=12,20,24&text=Hi,%20I'm%20Shreyash%20
+  &fontColor=ffffff&fontSize=42&fontAlignY=30&desc=Converting%20caffeine,%20deadlines,%20and%20quiet%20existential%20dread%20into%20shipped%20code&descAlignY=52&descSize=14&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=26D0CE&center=true&vCenter=true&width=680&lines=console.log(%22it+works+on+my+machine%22)%3B;git+commit+-m+%22final+fix+i+swear+to+god%22;git+push+--force+(on+a+Friday%2C+like+a+coward);rm+-rf+my+will+to+live;npm+run+ship-it+anyway;still+cheaper+than+therapy;sudo+apt-get+install+emotional-stability;Top+10+%E2%80%94+Smart+India+Hackathon+%F0%9F%8F%86"/>
 
@@ -222,8 +223,8 @@ Secondary (10th), CBSE Board
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yaminam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminam&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yaminam&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminam&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400"/>
 
 <br/>
 
