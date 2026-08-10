@@ -1,11 +1,19 @@
 <!-- ============ HERO ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=Hi,%20I'm%20Shreyash%20💀&fontColor=ffffff&fontSize=40&fontAlignY=32&desc=Converting%20caffeine,%20deadlines,%20and%20quiet%20despair%20into%20shipped%20code&descAlignY=52&descSize=15&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=12,20,24&text=Hi,%20I'm%20Shreyash%20💀&fontColor=ffffff&fontSize=42&fontAlignY=30&desc=Converting%20caffeine,%20deadlines,%20and%20quiet%20existential%20dread%20into%20shipped%20code&descAlignY=52&descSize=14&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=26D0CE&center=true&vCenter=true&width=650&lines=console.log(%22it+works+on+my+machine%22)%3B;git+commit+-m+%22final+fix+i+swear+to+god%22;rm+-rf+my+will+to+live;npm+run+ship-it+anyway;still+cheaper+than+therapy;Top+10+%E2%80%94+Smart+India+Hackathon+%F0%9F%8F%86"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=26D0CE&center=true&vCenter=true&width=680&lines=console.log(%22it+works+on+my+machine%22)%3B;git+commit+-m+%22final+fix+i+swear+to+god%22;git+push+--force+(on+a+Friday%2C+like+a+coward);rm+-rf+my+will+to+live;npm+run+ship-it+anyway;still+cheaper+than+therapy;sudo+apt-get+install+emotional-stability;Top+10+%E2%80%94+Smart+India+Hackathon+%F0%9F%8F%86"/>
 
-<br/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-running_on_fumes-1a1b27?style=for-the-badge&labelColor=26D0CE&color=1a1b27"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Sleep_schedule-404_not_found-1a1b27?style=for-the-badge&labelColor=26D0CE&color=1a1b27"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Deploys-mostly_on_Fridays-1a1b27?style=for-the-badge&labelColor=26D0CE&color=1a1b27"/>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=yaminam&label=poor%20souls%20who%20found%20this%20page&color=26d0ce&style=for-the-badge"/>
 &nbsp;
@@ -14,6 +22,10 @@
 <a href="mailto:tshreyash024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Noida,_India-currently_surviving-26D0CE?style=for-the-badge"/>
+
+<br/><br/>
+
+<sub>*If you're a recruiter: yes I'm stable enough to hire. If you're a friend: no I'm not, but the code still ships, so it's fine, everything's fine.*</sub>
 
 </div>
 
@@ -44,8 +56,15 @@ $ sudo find / -name "work_life_balance"
 find: 'work_life_balance': No such file or directory
 find: permission denied — you don't have the clearance for that dream
 
+$ cat /var/log/rent_vs_savings.log
+rent: paid. savings: theoretical. adulthood: a subscription I never
+remember agreeing to, billed monthly, no refunds, no free trial.
+
 $ echo $MOOD
-functional. barely. shipping regardless.
+functional. barely. shipping regardless. therapist on retainer, unused.
+
+$ crontab -l
+0 3 * * * /usr/bin/existential_crisis --quiet --recurring
 ```
 
 <br/>
@@ -183,6 +202,8 @@ Secondary (10th), CBSE Board
 - 🥇 Top 10 Finalist — University Ideathon Competition
 - 📜 Apna College — Alpha (DSA with Java), Certificate of Completion
 - 📊 Summer Analytics 2024 — Consulting and Analytics Club, IIT Guwahati
+
+*None of these pay rent directly, but they look great next to a LinkedIn headshot I took at 1am with the "professional" lighting filter.*
 
 <br/>
 
