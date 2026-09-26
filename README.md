@@ -19,6 +19,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=yaminam&label=poor%20souls%20who%20found%20this%20page&color=26d0ce&style=for-the-badge"/>
 &nbsp;
+<a href="https://shreyashtripathi.in"><img src="https://img.shields.io/badge/Portfolio-shreyashtripathi.in-26D0CE?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/shreyashtripathi9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:tshreyash024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
