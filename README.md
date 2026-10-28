@@ -21,6 +21,10 @@
 &nbsp;
 <a href="https://shreyashtripathi.in"><img src="https://img.shields.io/badge/Portfolio-shreyashtripathi.in-26D0CE?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 &nbsp;
+<a href="https://shreyashtripathi.in/hire"><img src="https://img.shields.io/badge/Hire_me-frontend_%26_full--stack-39FF14?style=for-the-badge&labelColor=1a1b27"/></a>
+&nbsp;
+<a href="https://dev.to/shreyashtripathi"><img src="https://img.shields.io/badge/dev.to-articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/shreyashtripathi9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:tshreyash024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -40,7 +44,7 @@
 
 ```bash
 $ whoami
-Shreyash Tripathi. Frontend-focused full-stack dev.
+Shreyash Tripathi. Full-stack dev with a UI/UX eye. Also does AI-first SEO, AEO & GEO.
 Professional bug creator. Occasional bug fixer. Full-time tired.
 Great at handling exceptions. Terrible at handling my own.
 
@@ -86,7 +90,7 @@ $ crontab -l
 *The "since the promotion, please send help" arc:*
 - Integrated a new analytics dashboard module into an internal campaign-management platform, redesigned its Excel export reporting, and fixed the bugs it left behind. Like inheriting your ex's debt, except this one actually gets resolved.
 - Contributing to rebuilding a 45-page K-12 school marketing website, including a mobile-layout overhaul that finally stopped the horizontal scroll, broken tap targets, and a nav menu with more commitment issues than I've ever had, and that's saying something.
-- Extended an internal zero-knowledge credential management tool. Added credential revocation, so people can finally be un-trusted, a feature I wish existed outside of code, and multi-currency vendor billing.
+- Built an internal zero-knowledge asset, credential and billing manager end to end (Next.js, Supabase, WebCrypto): QR asset labels, invoice OCR, multi-currency spend tracking and credential revocation, so people can finally be un-trusted, a feature I wish existed outside of code.
 
 *The "AI Trainee, still figuring out what a promotion even means" arc:*
 - Built and deployed an AI content-generation agent that writes an Instagram post, a LinkedIn post, and a blog post every single day, cutting manual content effort by roughly 40%, and my remaining faith in original human thought by considerably more.
@@ -132,6 +136,7 @@ $ crontab -l
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 **Where the data sleeps, better than I do, and it doesn't even pay rent**
 
@@ -143,6 +148,13 @@ $ crontab -l
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Getting found on Google and by the robots (SEO, AEO, GEO)**
+
+![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Schema.org](https://img.shields.io/badge/Schema.org_JSON--LD-1a1b27?style=for-the-badge&labelColor=26D0CE)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
 
 **Getting it out the door before I lose whatever nerve I had left**
 
@@ -157,34 +169,43 @@ $ crontab -l
 <!-- ============ PROJECTS ============ -->
 ## Things I actually shipped (a small miracle, considering)
 
-> Swap these placeholder links for the real repo and live URLs before a recruiter finds this and reconsiders everything, including their career choices for reading this far.
+### Job Portal, Full-Stack Recruitment Platform (solo)
+Built the whole thing alone, which is the most independent I've been about anything, ever.
+- Next.js 15 App Router + TypeScript: job search with filters, saved jobs, application tracking, a dashboard and employer job posting.
+- 6 REST route handlers with bcrypt + JWT auth and an 8-table PostgreSQL schema. Not MERN, despite the URL. The URL is from a past life.
 
-### PurrCase, Custom Mobile Cover E-Commerce Platform
+[Repo](https://github.com/Yaminam/jobportal) · [Live](https://v0-mern-job-portal-one.vercel.app) · [Case study](https://shreyashtripathi.in/projects/mern-job-portal) · [Article](https://dev.to/shreyashtripathi/building-a-job-portal-with-nextjs-15-route-handlers-auth-applications-and-the-schema-behind-them-4of4)
+
+### SketchRace, Real-Time Multiplayer Drawing and Guessing Game (team, I did the backend)
+Wanted to build Skribbl.io at 2am. Built the server for it. Slept even less than before.
+- Socket.IO game server: rooms, live drawing sync, server-timed rounds, turn rotation and speed-based scoring across 10 real-time events.
+- A teammate built the Next.js + Canvas frontend. We're still on speaking terms, which is more than I can say for most group projects.
+
+[Repo](https://github.com/PRINCEjain0/sketchrace) · [Live](https://sketchrace.vercel.app) · [Case study](https://shreyashtripathi.in/projects/sketchrace) · [Article](https://dev.to/shreyashtripathi/building-a-real-time-multiplayer-drawing-game-with-socketio-rooms-timers-scoring-and-the-bugs-3i4j)
+
+### PurrCase, Custom Phone-Case E-Commerce (team, I did the frontend)
 Because everyone's phone case is boring, and mine shouldn't be, unlike most of the choices I've made after midnight.
-- Engineered a full-stack e-commerce platform using Next.js, Prisma ORM, and Kinde OAuth with role-based access control and REST APIs.
-- Built a responsive UI with Tailwind CSS and Radix UI, integrating real-time data sync, file uploads, and automated email notifications.
+- Next.js 14 + TypeScript storefront and a 3-step case designer (upload, drag/resize on a phone mockup, pick model and finish) with Tailwind CSS and Radix UI.
+- Canvas-based cropping so the print file matches the screen. The rest of the stack: Prisma, PostgreSQL, Kinde auth, Stripe and Resend.
 
-`[Repo](https://github.com/Yaminam/purrcase)` `[Live](https://purrcase.vercel.app)`
+[Repo](https://github.com/NEMYSESx/Purr-Case) · [Live](https://purr-case.vercel.app) · [Case study](https://shreyashtripathi.in/projects/purrcase)
 
-### SketchRace, Real-Time Multiplayer Drawing and Guessing Game
-Wanted to build Skribbl.io at 2am. Built it. Slept even less than before. The pattern's getting a little obvious now, isn't it.
-- Developed a real-time multiplayer game with Socket.IO for live synchronization, dynamic turn rotation, and speed-based scoring.
-- Implemented an interactive drawing interface using the Canvas API with Next.js, React, TypeScript, and Tailwind CSS.
+### Portfolio, shreyashtripathi.in
+Somewhere to point people that isn't this README, in case this README has said a little too much.
+- Prerendered React + TypeScript site with 4 case studies, strict CSP, and Lighthouse SEO / accessibility / best practices at 100 (mobile performance 30 to 70-80).
+- Full AI-first SEO, AEO and GEO setup: structured data, llms.txt, AI-crawler tracking, Search Console, Bing and IndexNow. It ranks for my name and ChatGPT knows who I am now, which is more recognition than I get at family functions.
 
-`[Repo](https://github.com/Yaminam/sketchrace)` `[Live](https://sketchrace.vercel.app)`
+[Live](https://shreyashtripathi.in) · [Hire me](https://shreyashtripathi.in/hire) · [SEO, AEO & GEO services](https://shreyashtripathi.in/hire/seo) · [Article](https://dev.to/shreyashtripathi/how-i-made-my-react-portfolio-2x-faster-lighthouse-30-to-80-by-prerendering-a-vite-app-3j03)
 
-### MERN Job Portal, Full-Stack Recruitment Platform
-The classic "prove you can MERN" rite of passage, and prove you can survive the auth flow without calling your mother crying.
-- Built a full-stack job portal using MongoDB, Express.js, React.js, and Node.js with JWT authentication and role-based access control.
-- Designed REST APIs enabling job posting, application tracking, and user management across recruiter and candidate workflows.
+<br/>
 
-`[Repo](https://github.com/Yaminam/mern-job-portal)`
+<!-- ============ WRITING ============ -->
+## Things I wrote down so I'd stop explaining them in DMs
 
-### Portfolio Website
-Somewhere to point people that isn't this README, in case this README has said a little too much about what goes on in my head after hours.
-- Developed a TypeScript-based personal website to showcase skills and projects, optimized for performance and SEO, deployed on Vercel.
-
-`[Live](https://shreyashtripathi.vercel.app)`
+- [How I made my React portfolio 2x faster (Lighthouse 30 to 80) by prerendering a Vite app](https://dev.to/shreyashtripathi/how-i-made-my-react-portfolio-2x-faster-lighthouse-30-to-80-by-prerendering-a-vite-app-3j03)
+- [Building a real-time multiplayer drawing game with Socket.IO: rooms, timers, scoring (and the bugs I'd fix)](https://dev.to/shreyashtripathi/building-a-real-time-multiplayer-drawing-game-with-socketio-rooms-timers-scoring-and-the-bugs-3i4j)
+- [Building a zero-knowledge vault in the browser with WebCrypto (no crypto libraries)](https://dev.to/shreyashtripathi/building-a-zero-knowledge-vault-in-the-browser-with-webcrypto-no-crypto-libraries-51k4)
+- [Building a job portal with Next.js 15 route handlers: auth, applications, and the schema behind them](https://dev.to/shreyashtripathi/building-a-job-portal-with-nextjs-15-route-handlers-auth-applications-and-the-schema-behind-them-4of4)
 
 <br/>
 
